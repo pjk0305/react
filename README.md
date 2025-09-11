@@ -14,7 +14,6 @@
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
 
 
-# 포트폴리오 사이트 만들기 시작 1일차
 
     
     
